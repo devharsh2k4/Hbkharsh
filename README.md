@@ -28,8 +28,8 @@
 ## 📊 My Github Stats
 
  <br/>
-    <a href="https://github.com/carrycooldude/github-readme-stats"><img alt="Carrycooldude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carrycooldude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/carrycooldude/github-readme-stats"><img alt="carrycooldude's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrycooldude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/carrycooldude/github-readme-stats"><img alt="Harsh Vardhan Github Stats" src="https://github-readme-stats.vercel.app/api?username=hbkharsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/hbkharsh/github-readme-stats"><img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkharsh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     
     
