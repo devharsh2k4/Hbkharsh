@@ -43,6 +43,15 @@
 <br/>
 <br/>
     
+ ## Connect with me:
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/harsh-vardhan2k4"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/devharsh2k4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+
+</p>
+    
     
     
     
