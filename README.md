@@ -25,6 +25,10 @@
 <br>
 <br>
     
+👀 I’m interested in Android development,Web Development & Blockchain...
+🌱 I’m currently pursuing B.tech in Computer science engineering...
+💞️ I’m looking to collaborate on mobile and web projects..
+    
 ## 📊 My Github Stats
 
  <br/>
