@@ -32,6 +32,11 @@
   <a href="https://github.com/hbkharsh/github-readme-stats"><img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkharsh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     
+<div align="center"><a href="https://git.io/streak-stats"><img alt="Carrycooldude's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=hbkharsh&theme=radical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
+<br/>
+<br/>
+    
     
     
     
