@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello Coders I'm Harsh Vardhan </h1>
+<h1 align="center"> Hello Developers I'm Harsh Vardhan </h1>
 <h3 align="center">Web & Mobile Developer  </h3>
 
 
