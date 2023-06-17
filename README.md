@@ -1,10 +1,9 @@
 
-<h1 align="center"> Hello Coders <img width=28 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"> , I'm Harsh Vardhan </h1>
+<h1 align="center"> Hello Coders I'm Harsh Vardhan </h1>
 <h3 align="center">Web & Mobile Developer  </h3>
 
 
 
-<br>
 <br>
     
 👀 I’m interested in Android development,Web Development & Blockchain...
@@ -18,9 +17,6 @@
   <a href="https://github.com/hbkharsh/github-readme-stats"><img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkharsh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     
-<div align="center"><a href="https://git.io/streak-stats"><img alt="Carrycooldude's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=hbkharsh&theme=radical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</div>
-<br/>
 <br/>
     
 <div align="center">
