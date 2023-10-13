@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello Developers I'm Harsh Vardhan </h1>
-<h3 align="center">Web & Mobile Developer  </h3>
+<h3 align="center">Android Developer  </h3>
 
 
 
