@@ -10,7 +10,7 @@
 🌱 I’m currently pursuing B.tech in Computer science engineering...
 💞️ I’m looking to collaborate on mobile and web projects..
     
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 
  <br/>
     <a href="https://github.com/hbkharsh/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=hbkharsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
