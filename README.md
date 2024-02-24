@@ -1,14 +1,4 @@
 
-<h1 align="center"> Hello Developers I'm Harsh Vardhan </h1>
-<h3 align="center">Android Developer  </h3>
-
-
-
-<br>
-    
-👀 I’m interested in Android development📱📱...
-🌱 I’m currently pursuing B.tech in Computer science engineering...
-💞️ I’m looking to collaborate on mobile and web projects..
     
 ## 📊 My GitHub Stats
 
